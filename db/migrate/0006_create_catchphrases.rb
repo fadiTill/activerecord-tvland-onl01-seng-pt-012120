@@ -1,5 +1,3 @@
 ass CreateCatchphrase< ActiveRecord::Migrations[5.2]
   def change
-    create_table :characte < ActiveRecord::Migrations[5.2]
-  def change
-    create_table :characte
+    create_table :catchphrase < ActiveRecord::Migrations[5.2]
